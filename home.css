@@ -3,6 +3,10 @@
 .text_color_indigo{
     color: #7630ff;
 }
+.bg_color_indigo{
+    background-color: #7630ff;
+}
+
 .text_color_gray{
     color: #dfdee3;
 }
